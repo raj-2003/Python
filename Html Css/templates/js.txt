@@ -1,0 +1,205 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<link rel="canonical" href="https://www.naukri.com/recruit/job-posting"/>
+<meta name="copyright" content="2023 Naukri.com" />
+<meta name="content-language" content="EN" />
+<meta name="author" content="www.naukri.com" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="GLOBAL" />
+<meta name="revisit-after" content="1 day" />
+<meta name="rating" content="general" />
+<meta name="pragma" content="no-cache" />
+<meta name="classification" content="Jobs & Career: Job posting, Job Search, Apply Jobs, Post Jobs" />
+<meta name="robots" content="ALL" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+<!--[if lte IE 8]>
+<script type="text/javascript" src= https://static.naukimg.com/s/0/0/j/html5.min.js></script>
+<![endif]-->
+<meta http-equiv="" content="text/html" />
+
+<meta name="description" content="Post a Job on Naukri.com and hire best talent for your company. Reach talented professionals with the right skills and experience. Post a Job now!" />
+<meta name="language" content="en" />
+
+<title>Post a Job – Hire Staff Quickly | Naukri.com</title>
+
+
+	
+
+
+	<link rel="dns-prefetch preconnect" href="//static.naukimg.com">
+	<link rel="dns-prefetch preconnect" href="//static.naukri.com">
+	<link rel="dns-prefetch preconnect" href="//img.naukimg.com">
+	<link rel="dns-prefetch preconnect" href="//logs.naukri.com">
+	<link rel="dns-prefetch preconnect" href="//lg.naukri.com">
+	<link rel="dns-prefetch preconnect" href="https://www.googletagmanager.com" />
+	<link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,500,600,700,800&display=swap" />
+
+	</head>
+	<body>
+        	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+	<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDHMJN4" height="0" width="0" style="display:none;visibility:hidden">
+	</iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+        
+	<header class="header-container">
+        </header>
+	<script>
+       var productPages = {
+    demobuy: {
+        name: "Products On Offer (Buy Online)",
+        url: "https://www.naukri.com/recruit/buy-resume-database-access-packages"
+    },
+    resdex: {
+        name: "Resume Database Access (RESDEX)",
+        url: "https://www.naukri.com/recruit/resume-database-access-resdex"
+    },
+    jp: {
+        name: "Job Posting",
+        url: "https://www.naukri.com/recruit/job-posting"
+    },
+    rms: {
+        name: "Recruitment Management System (RMS)",
+        url: "https://www.naukrirms.com/"
+    },
+    referral: {
+        name: "Referral Solutions",
+        url: "https://www.naukri.com/recruit/employee-referral-solutions"
+    },
+    branding: {
+        name: "Branding Solutions",
+        url: "https://www.naukri.com/recruit/employer-branding-solutions"
+    }
+};
+        </script>
+	<script>
+ var imagesPathStatic5 = "https://static.naukimg.com/s/5/114/i";
+ var sitekey = "6LfL7B0UAAAAACit4C06I-qxK8X-6l4JHnwZKH60";
+ var contactUsSideBar = true;
+ var jobSeekerUrl = "http://my.naukri.com";
+ var rcb_url = "https://recruit.naukri.com/rCommerce/demo/callBack";
+ var currency = "INR";
+ var showCarousel = "1";
+ var pageName = "jp";
+ var paymentPageUrl = "https://recruit.naukri.com/rCommerce/client/registrationAndPayment";
+ var insta_jp_url = "https://posting.naukri.com/Job/new?subCategoryId=1&amp;insta=1";
+ var searchableCVCount = "9.35 crore";
+ var logout_url = "https://www.naukri.com/recruit/logout";
+ var login_base_url = "https://login.recruit.naukri.com/";
+ var loginPage = "https://login.recruit.naukri.com/Login/login";
+ var homePageUrl = "https://recruit.naukri.com";
+ var country = "IN";
+ var loggedInUserData = {
+  userId : '',
+  username : ''
+ };
+
+ var prodInfo = {"jpHotVacancy":{"3":{"navProdId":"ITEM NO\/001559","name":"1 Hot Vacancy Listing","price":1650,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":1,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"n","clientType":"COMPANY","correspondingProdId":"3"},"939":{"navProdId":"ITEM NO\/001532","name":"2 Hot Vacancy Listings","price":3300,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":2,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"939"},"940":{"navProdId":"ITEM NO\/001533","name":"3 Hot Vacancy Listings","price":4950,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":3,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"940"},"941":{"navProdId":"ITEM NO\/001534","name":"4 Hot Vacancy Listings","price":6600,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":4,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"941"},"1125":{"navProdId":"ITEM NO\/001535","name":"5 Hot Vacancy Listings","price":7425,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":5,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1125"},"1008":{"navProdId":"ITEM NO\/001536","name":"6 Hot Vacancy Listings","price":8910,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":6,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1008"},"1009":{"navProdId":"ITEM NO\/001537","name":"7 Hot Vacancy Listings","price":10395,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":7,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1009"},"1010":{"navProdId":"ITEM NO\/001538","name":"8 Hot Vacancy Listings","price":11880,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":8,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1010"},"1011":{"navProdId":"ITEM NO\/001539","name":"9 Hot Vacancy Listings","price":13365,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":9,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1011"},"1126":{"navProdId":"ITEM NO\/001540","name":"10 Hot Vacancy Listings","price":14850,"label":"For Metro & Non-Metro Cities","heading":"HOT-VACANCY","subHeading":"Advanced Job Posting","isPopular":true,"productType":"JP_HOT_VACANCY","unitPrice":1650,"qty":10,"locationType":"ALL","isBoosted":true,"isBranded":true,"maxChars":"Unlimited","jpGroupName":"HOT VACANCY","isCombo":false,"maxDiscount":10,"displaySort":0,"sortIdentifier":"HV","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1126"},"groups":[{"groupName":"HOT VACANCY","products":["3"]}]},"resdexWithOffer":{"1854-1689":{"navProdId":"ITEM NO\/001282","name":"3 days Resdex and 1 Hot Vacancy","price":4300,"offerProd":{"navProdId":"ITEM NO\/001559","name":"1 Hot Vacancy Listing","price":1650,"qty":1,"kycRequired":"n"},"label":"Resume Database Access","heading":"3 DAYS RESDEX","isPopular":false,"productType":"RESDEX","cv":150,"emails":1500,"duration":3,"qty":0,"jpGroupName":"3 DAYS RESDEX","isCombo":true,"displaySort":3,"sortIdentifier":"RESDEX","kycRequired":"n","clientType":"COMPANY","correspondingProdId":"1689-3410"},"1858-1860":{"navProdId":"ITEM NO\/001284","name":"7 days Resdex and 2 Hot Vacancies","price":8150,"offerProd":{"navProdId":"ITEM NO\/001532","name":"2 Hot Vacancy Listings","price":3300,"qty":2,"kycRequired":"y"},"label":"Resume Database Access","heading":"7 DAYS RESDEX","isPopular":false,"productType":"RESDEX","cv":350,"emails":3500,"duration":7,"qty":0,"jpGroupName":"7 DAYS RESDEX","isCombo":true,"displaySort":3,"sortIdentifier":"RESDEX","kycRequired":"n","clientType":"COMPANY","correspondingProdId":"3408-1860"},"1864-1860":{"navProdId":"ITEM NO\/001294","name":"15 days Resdex and 2 Hot Vacancies","price":15250,"offerProd":{"navProdId":"ITEM NO\/001532","name":"2 Hot Vacancy Listings","price":3300,"qty":2,"kycRequired":"y"},"label":"Resume Database Access","heading":"15 DAYS RESDEX","isPopular":false,"productType":"RESDEX","cv":700,"emails":7000,"duration":15,"qty":0,"jpGroupName":"15 DAYS 2 HV","isCombo":true,"displaySort":3,"sortIdentifier":"RESDEX","kycRequired":"n","clientType":"COMPANY","correspondingProdId":"3412-1860"},"1864-1685":{"navProdId":"ITEM NO\/001875","name":"15 days Resdex and 3 Hot Vacancies","price":16500,"offerProd":{"navProdId":"ITEM NO\/001533","name":"3 Hot Vacancy Listings","price":4950,"qty":3,"kycRequired":"y"},"label":"Resume Database Access","heading":"15 DAYS RESDEX","isPopular":false,"productType":"RESDEX","cv":700,"emails":7000,"duration":15,"qty":0,"jpGroupName":"15 DAYS 3 HV","isCombo":true,"displaySort":3,"sortIdentifier":"RESDEX","kycRequired":"n","clientType":"COMPANY","correspondingProdId":"3412-1685"},"groups":[{"groupName":"3 DAYS RESDEX","products":["1854-1689"]},{"groupName":"7 DAYS RESDEX","products":["1858-1860"]},{"groupName":"15 DAYS 2 HV","products":["1864-1860"]},{"groupName":"15 DAYS 3 HV","products":["1864-1685"]}]},"jpClassified":{"1":{"navProdId":"ITEM NO\/001478","name":"1 Classified Listing","price":850,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":1,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"n","clientType":"COMPANY","correspondingProdId":"1"},"1012":{"navProdId":"ITEM NO\/001541","name":"2 Classified Listings","price":1700,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":2,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1012"},"1013":{"navProdId":"ITEM NO\/001542","name":"3 Classified Listings","price":2550,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":3,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1013"},"1014":{"navProdId":"ITEM NO\/001543","name":"4 Classified Listings","price":3400,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":4,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1014"},"1015":{"navProdId":"ITEM NO\/001544","name":"5 Classified Listings","price":3825,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":5,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1015"},"1016":{"navProdId":"ITEM NO\/001545","name":"6 Classified Listings","price":4590,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":6,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1016"},"1017":{"navProdId":"ITEM NO\/001546","name":"7 Classified Listings","price":5355,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":7,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1017"},"1018":{"navProdId":"ITEM NO\/001547","name":"8 Classified Listings","price":6120,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":8,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1018"},"1019":{"navProdId":"ITEM NO\/001548","name":"9 Classified Listings","price":6885,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":9,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1019"},"1020":{"navProdId":"ITEM NO\/001549","name":"10 Classified Listings","price":7650,"label":"For Metro & Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":850,"qty":10,"locationType":"ALL","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":1,"sortIdentifier":"CL_ALL","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"1020"},"2402":{"navProdId":"ITEM NO\/001878","name":"1 Non-Metro Classified Listing","price":400,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":1,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"n","clientType":"COMPANY","correspondingProdId":"2402"},"2404":{"navProdId":"ITEM NO\/001879","name":"2 Non-Metro Classified Listings","price":800,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":2,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2404"},"2406":{"navProdId":"ITEM NO\/001880","name":"3 Non-Metro Classified Listings","price":1200,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":3,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2406"},"2408":{"navProdId":"ITEM NO\/001881","name":"4 Non-Metro Classified Listings","price":1600,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":4,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2408"},"2410":{"navProdId":"ITEM NO\/001882","name":"5 Non-Metro Classified Listings","price":1800,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":5,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2410"},"2412":{"navProdId":"ITEM NO\/001883","name":"6 Non-Metro Classified Listings","price":2160,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":6,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2412"},"2414":{"navProdId":"ITEM NO\/001884","name":"7 Non-Metro Classified Listings","price":2520,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":7,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2414"},"2416":{"navProdId":"ITEM NO\/001885","name":"8 Non-Metro Classified Listings","price":2880,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":8,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2416"},"2418":{"navProdId":"ITEM NO\/001886","name":"9 Non-Metro Classified Listings","price":3240,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":9,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2418"},"2420":{"navProdId":"ITEM NO\/001887","name":"10 Non-Metro Classified Listings","price":3600,"label":"For Non-Metro Cities","heading":"CLASSIFIED","subHeading":"Basic Job Posting","isPopular":false,"productType":"JP_CLASSIFIED","unitPrice":400,"qty":10,"locationType":"NON-METRO","isBoosted":false,"isBranded":false,"maxChars":"250","isCombo":false,"maxDiscount":10,"displaySort":2,"sortIdentifier":"CL_NON_METRO","kycRequired":"y","clientType":"COMPANY","correspondingProdId":"2420"},"groups":[{"groupName":"CLASSIFIED","products":["1","2402"]}]},"currency":"INR"};
+ </script>
+
+<div class="content-container"></div>
+<div class="bodyWrap"><div id="rcommerce_root" class="appContainer rCommerce"></div></div><footer class="footer-container"></footer>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://static.naukimg.com/s/5/114/c/rCommon_v14.min.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="https://static.naukimg.com/s/5/117/c/common_rcommerce_app_v78.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="https://static.naukimg.com/s/5/117/c/rcommerce_app_v78.css" />
+
+	 <!-- Lightbox start -->
+               <div id="ltDiv"></div>
+               <div id="link_lightBox" class="ltBx"></div>
+        <!-- Lightbox end -->
+	<script>
+        var isCrawler='';
+        
+	var footerUrl = {
+		jobsResponses : 'https://www.naukri.com/recruit/job-posting',
+                resdex : 'https://www.naukri.com/recruit/resume-database-access-resdex',
+		csm : 'http://www.naukrirms.com/',
+		referral : 'https://recruit.naukri.com/hiringsuite/naukri-referral-tool.html',
+                transitionServices:'https://www.naukri.com/fastforward/transition-services',
+		aboutUs : 'http://infoedge.in/',
+		clients : 'http://jobsearch.naukri.com/top-company-jobs',
+		careers : 'http://careers.naukri.com/',
+		termsAndConditions : 'http://jobsearch.naukri.com/mynaukri/mn_termsconditions.php',
+                privacyPolicy : 'https://www.naukri.com/privacypolicy',
+		jobseekerHome : 'https://login.naukri.com/nLogin/Login.php',
+		faq : 'https://www.naukri.com/faq/recruiter',
+		contactUs : 'https://www.naukri.com/mynaukri/mn_contactus.php',
+		grievances : 'https://w5.naukri.com/grievances-form?id=',
+		summonsAndNotices : 'https://w5.naukri.com/summons-notices-form?id=',
+		siteMap : 'http://www.naukri.com/sitemap/sitemap.htm',
+		reportAProblem:'https://w5.naukri.com/fdbck/main/feedback.php?app_id=18',
+		resources : 'http://corp.naukri.com/mynaukri/mn_resources.php',
+                TrustAndSafety:'https://trust.naukri.com/',
+                Whitehat:'https://whitehat.naukri.com/'
+               
+
+	};
+	var showGdprBanner = "";
+</script>
+
+
+<script src="https://static.naukimg.com/s/0/0/j/jquery_upgraded.min.js"> </script>
+<script>
+               if (typeof jQuery == 'undefined') {
+                       document.write(decodeURI("%3Cscript src='//static.naukimg.com/s/0/0/j/jquery_upgraded.min.js' type='text/javascript'%3E%3C/script%3E"));
+               }
+</script>
+
+
+<script type="text/javascript" src="https://static.naukimg.com/s/5/114/j/rCommerce_Plugin_v7.min.js"></script>
+<script type="text/javascript" src="https://static.naukimg.com/s/5/114/j/rCommerce_Common_v66.min.js"></script>
+<script type="text/javascript" src="https://static.naukimg.com/s/5/117/j/common_rcommerce_app_v78.js"></script>
+<script type="text/javascript" src="https://static.naukimg.com/s/5/117/j/rcommerce_app_v78.js"></script>
+<script type="text/javascript" src="https://static.naukimg.com/s/7/0/j/widget-client-nr.min.js"></script>
+
+
+	
+			<script defer src="data:text/javascript,
+				(function(w,d,s,l,i)
+						{
+							w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+							var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+						}
+				)(window,document,'script','dataLayer','GTM-KDHMJN4');
+
+
+
+				var jsElm = document.createElement('script');
+				jsElm.type = 'application/javascript';
+				jsElm.src = 'https://www.googletagmanager.com/gtag/js?id=AW-733073176';
+				document.body.appendChild(jsElm);
+
+
+
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'AW-733073176');
+			"></script>
+
+<script defer type="text/javascript" src ="//static.naukimg.com/s/0/0/j/nLoggerJB_v3.3.min.js">
+
+</script>
+		<script defer src='data:text/javascript,
+		try { document.execCommand("BackgroundImageCache", false, true); } catch(err) {}
+
+	nLogger.addCustomObj({"hostname":"ni-rcommerce-php-prod-rcommerce-669f4d68b9-5wc7z"});
+	nLogger.init({"boomerangReport":true,"tag":"new posting revamp","jsSpa":"\/\/static.naukimg.com\/s\/0\/0\/j\/loggerSPA_v6.0.min.js","nLogger":{"beaconUrl":"https:\/\/lg.naukri.com\/uba","eventName":"newMonkError","deviceType":"SERVER"},"boomerang":{"logBW":false,"beaconUrl":"https:\/\/lg.naukri.com\/uba","imageURL":"\/\/static.naukimg.com\/s\/0\/0\/i\/","eventName":"newMonkPerformance","deviceType":"SERVER"},"tnm":{"beaconUrl":"https:\/\/lg.naukri.com\/nLogger\/tnmLogger.php","pluginBaseUrl":"\/\/static.naukimg.com\/s\/5\/100\/j\/tnm_v8.min.js","eventName":"newMonkTNM","deviceType":"SERVER","pluginBaseURL":null},"tenantId":1,"webvitals":{"beaconUrl":"https:\/\/lg.naukri.com\/uba","pluginBaseUrl":"\/\/static.naukimg.com\/s\/0\/0\/j\/logWebvital_v1.4.min.js","eventName":"newMonkWebVitals","deviceType":"SERVER"},"appId":117,"userIP":"","captureRes":"true"});
+		'></script>
+
+<script id="ubScript"> (function() { var queuedSuperProps = []; var queuedEvents = []; window.ub = { track: function(eventName, eventProps) { queuedEvents.push([eventName, eventProps]) }, register: function(properties) { queuedSuperProps.push(properties); } };
+            var script = document.createElement("script"); script.async = true; script.src = "//static.naukri.com/s/0/1/j/ub_v1.11.min.js";script.onload = function() { ub.init({
+                    beaconUrl : "https://logs.naukri.com/uba", bulkBeaconUrl : "https://logs.naukri.com/collectorapi/v1/uba/bulk", queuedEvents:queuedEvents, queuedSuperProps:queuedSuperProps,  tenantId:'1' , autoTrack:true, blackList: 
+                []
+            }); };document.head.appendChild(script);}()); ub.register({ appId:117, pageName: "product-jobPosting",  tenantId:'1' , }); </script>
+
+<script type="text/javascript"  src="/aIAPw3v98DFvZ/sXTHH/x2aezcBzU/p5ukwGmS4X1f/BwtUPgE/PEcMb/yUkZ20B"></script></body>
+</html>

@@ -1,0 +1,89 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: arial;
+}
+
+body{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(101, 117, 133);
+}
+
+.loginform{
+	width: 300px;
+	height: 350px;
+	background: rgba(0, 0, 0, 0.8);
+	border-radius: 10px;
+}
+
+h2{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 30px 0;
+	font-size: 25px;
+	color: #fff;
+	border-bottom: 1px solid gray;
+}
+
+form{
+	margin: 0 0 0 12px;
+}
+
+.loginform .inputfield{
+	position: relative;
+}
+
+.loginform .inputfield input{
+	width: 95%;
+	color: #fff;
+	margin-top: 48px;
+	background-color: transparent;
+	border: none;
+	outline: none;
+	padding-left: 10px;
+	border-bottom: 1px solid gray;
+}
+
+.loginform .inputfield label{
+	position: absolute;
+	top: 40px;
+	left: 0;
+	color: #fff;
+	transition: 0.4s;
+	letter-spacing: 1px;
+}
+
+.loginform .inputfield input:focus ~ label,
+.loginform .inputfield input:valid ~ label{
+	top: 2px;
+	left: 0;
+	color: #00ffff;
+	font-size: 11px;
+}
+
+.loginform .loginbtn{
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	font-size: 17px;
+	color: #fff;
+	letter-spacing: 1.2px;
+	background-color: #00ffff;
+	height: 40px;
+	width: 255px;
+	margin: 30px 0 10px 0;
+	font-weight: 700;
+}
+
+.loginform a{
+	color: #fff;
+	text-transform: capitalize;
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-size: 12px;
+	padding: 0 0 0 54px;
+}

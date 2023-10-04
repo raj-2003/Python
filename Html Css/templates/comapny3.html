@@ -1,0 +1,90 @@
+  <title>Job Vacancy Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="text"], input[type="number"], textarea, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        select {
+            height: 40px;
+        }
+        .btn {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Post a Job Vacancy</h2>
+        <form action="#" method="post">
+            <label for="company">Company Name</label>
+            <input type="text" id="company" name="company" required>
+
+            <label for="title">Job Title</label>
+            <input type="text" id="title" name="title" required>
+
+            <label for="description">Job Description</label>
+            <textarea id="description" name="description" rows="4" required></textarea>
+
+            <label for="salary">Salary</label>
+            <input type="number" id="salary" name="salary" required>
+
+            <label for="jobType">Job Type</label>
+            <select id="jobType" name="jobType" required>
+                <option value="Full-time">Full-time</option>
+                <option value="Part-time">Part-time</option>
+                <option value="Contract">Contract</option>
+                <option value="Freelance">Freelance</option>
+                <!-- Add more options as needed -->
+            </select>
+
+            <label for="skills">Required Skills</label>
+            <input type="text" id="skills" name="skills" required>
+
+            <label for="postedAt">Posted At</label>
+            <input type="date" id="postedAt" name="postedAt" required>
+
+            <label for="expired">Expiration Date</label>
+            <input type="date" id="expired" name="expired" required>
+
+            <label for="experience">Experience Required (years)</label>
+            <input type="number" id="experience" name="experience" required>
+
+            <label for="category">Job Category</label>
+            <select id="category" name="category" required>
+                <option value="IT">IT</option>
+                <option value="Marketing">Marketing</option>
+                <option value="Finance">Finance</option>
+                <option value="Sales">Sales</option>
+                <!-- Add more options as needed -->
+            </select>
+
+            <button type="submit" class="btn">Submit</button>
+        </form>
+    </div>
+</body>

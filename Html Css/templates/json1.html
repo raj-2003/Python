@@ -1,0 +1,24 @@
+import json
+
+# Create a Python dictionary
+data = {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York"
+}
+
+# Convert the Python dictionary to JSON format
+json_data = json.dumps(data, indent=4)  # The 'indent' parameter is optional for pretty-printing
+
+# Print the JSON data
+print("JSON Data:")
+print(json_data)
+
+# Parse the JSON data back to a Python object
+parsed_data = json.loads(json_data)
+
+# Access values in the parsed data
+print("\nParsed Data:")
+print("Name:", parsed_data["name"])
+print("Age:", parsed_data["age"])
+print("City:", parsed_data["city"])
